@@ -562,11 +562,11 @@ There are several methods to create instance to indicate the message direction b
  - Using several instances</Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
-        <Ver>1.0</Ver>
+        <Ver>1.0.2</Ver>
         <DDF>19.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LwM2M_APPDATA/V1_0_1-20190221-A/OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_1-20190221-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LwM2M_APPDATA/V1_0_2-20240312-A/OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_2-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
     <Item>
