@@ -472,13 +472,26 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <Owner>OMA</Owner>
         <Source>0</Source>
         <Ver>1.0</Ver>
-        <DDF>14.xml</DDF>
+        <DDF>version_history/14-1-0-3.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
 	<TS>http://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_2-20210119-A/OMA-TS-LWM2M_SwMgmt-V1_0_2-20210119-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
+    <Item>
+        <ObjectID>14</ObjectID>
+        <URN>urn:oma:lwm2m:oma:14</URN>
+        <Name>LWM2M Software Component</Name>
+        <Description>If some Objects are not supported after software update, the LwM2M Client MUST delete all the Object Instances of the Objects that are not supported.</Description>
+        <Owner>OMA</Owner>
+        <Source>0</Source>
+        <Ver>1.0</Ver>
+        <DDF>14.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>1</DDFLink>
+	<TS>https://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_3-20240312-A/OMA-TS-LWM2M_SwMgmt-V1_0_3-20240312-A.pdf</TS>
+        <TSLink>1</TSLink>
+    </Item>
     <Item>
         <ObjectID>15</ObjectID>
         <URN>urn:oma:lwm2m:oma:15:2.0</URN>
