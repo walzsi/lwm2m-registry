@@ -1,0 +1,15 @@
+update objects 9 and 15 to DDF file and version history
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Apr 14 22:49:40 2024 +0200
+#
+# On branch publication-march-24
+# Changes to be committed:
+#	modified:   14.xml
+#	modified:   9.xml
+#	modified:   DDF.xml
+#	new file:   version_history/14-1-0-3.xml
+#	new file:   version_history/9-1-0-3.update objxml
+#ects 9 and 15 to DDF file and version history
