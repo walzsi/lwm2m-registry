@@ -336,12 +336,12 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
     </Item>
     <Item>
         <ObjectID>8</ObjectID>
-        <URN>urn:oma:lwm2m:oma:8:1.0.4</URN>
+        <URN>urn:oma:lwm2m:oma:8:1.0</URN>
         <Name>Lock and Wipe</Name>
         <Description>This LWM2M objects provides the resources needed to perform the lock and wipe operations.</Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
-        <Ver>1.0.4</Ver>
+        <Ver>1.0</Ver>
         <DDF>8.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
