@@ -320,7 +320,20 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
+<Item>
+        <ObjectID>8</ObjectID>
+        <URN>urn:oma:lwm2m:oma:8</URN>
+        <Name>Lock and Wipe</Name>
+        <Description>This LWM2M objects provides the resources needed to perform the lock and wipe operations.</Description>
+        <Owner>OMA</Owner>
+        <Source>0</Source>
+        <Ver>1.0</Ver>
+        <DDF>version_history/8-1_0.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>1</DDFLink>
+        <TS>http://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/V1_0_3-20210119-A/OMA-TS-LWM2M_LockWipe-V1_0_2-20210119-A.pdf</TS>
+        <TSLink>1</TSLink>
+    </Item>
     <Item>
         <ObjectID>8</ObjectID>
         <URN>urn:oma:lwm2m:oma:8</URN>
