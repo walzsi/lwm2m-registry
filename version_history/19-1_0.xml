@@ -3,18 +3,19 @@
 FILE INFORMATION
 
 OMA Permanent Document
-   File: OMA-SUP-LwM2M_BinaryAppDataContainer-V1_0_1-20190221-A
-   Type: xml
+   File: OMA-SUP-LwM2M_BinaryAppDataContainer-V1_0_2-20240312-A
+   Path: https://openmobilealliance.org/release/LwM2M_APPDATA/
 
-Public Reachable Information
-   Path: http://www.openmobilealliance.org/tech/profiles
-   Name: LwM2M_BinaryAppDataContainer-v1_0_1.xml
+OMNA LwM2M Registry
+   File: 19.xml
+   Path: https://github.com/OpenMobileAlliance/lwm2m-registry
+   
 
 NORMATIVE INFORMATION
 
   Information about this file can be found in the latest revision of
 
-  OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_1
+  OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_2
 
   This is available at http://www.openmobilealliance.org/
 
@@ -24,10 +25,11 @@ CHANGE HISTORY
 
 15062018 Status changed to Approved by DM, Doc Ref # OMA-DM&SE-2018-0061-INP_LWM2M_APPDATA_V1_0_ERP_for_final_Approval
 21022019 Status changed to Approved by IPSO, Doc Ref # OMA-IPSO-2019-0025-INP_LwM2M_Object_App_Data_Container_1_0_1_for_Final_Approval
+See https://github.com/OpenMobileAlliance/binary_app_data_container
 
 LEGAL DISCLAIMER
 
-Copyright 2019 Open Mobile Alliance.
+Copyright 2019-2024 Open Mobile Alliance.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
