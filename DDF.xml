@@ -336,7 +336,7 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
     </Item>
     <Item>
         <ObjectID>9</ObjectID>
-        <URN>urn:oma:lwm2m:oma:9</URN>
+        <URN>urn:oma:lwm2m:oma:9:1.0</URN>
         <Name>LWM2M Software Management</Name>
         <Description>This LwM2M objects provides the resources needed to perform software management on the device. Each software component is managed via a dedicated Software Management Object instance.</Description>
         <Owner>OMA</Owner>
@@ -463,7 +463,7 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
     </Item>
     <Item>
         <ObjectID>14</ObjectID>
-        <URN>urn:oma:lwm2m:oma:14</URN>
+        <URN>urn:oma:lwm2m:oma:14:1.0</URN>
         <Name>LWM2M Software Component</Name>
         <Description>If some Objects are not supported after software update, the LwM2M Client MUST delete all the Object Instances of the Objects that are not supported.</Description>
         <Owner>OMA</Owner>
@@ -547,7 +547,7 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
     </Item>
     <Item>
         <ObjectID>19</ObjectID>
-        <URN>urn:oma:lwm2m:oma:19</URN>
+        <URN>urn:oma:lwm2m:oma:19:1.0</URN>
         <Name>BinaryAppDataContainer</Name>
         <Description>This LwM2M Objects provides the application service data related to a LwM2M Server, eg. Water meter data. 
 There are several methods to create instance to indicate the message direction based on the negotiation between Application and LwM2M. The Client and Server should negotiate the instance(s) used to exchange the data. For example:
@@ -712,7 +712,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
     </Item>
     <Item>
         <ObjectID>25</ObjectID>
-        <URN>urn:oma:lwm2m:oma:25</URN>
+        <URN>urn:oma:lwm2m:oma:25:1.0</URN>
         <Name>LwM2M Gateway</Name>
         <Description>This object is used by a LwM2M Gateway to maintain the devices connected to the gateway.</Description>
         <Owner>OMA</Owner>
