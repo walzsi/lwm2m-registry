@@ -305,7 +305,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>7</ObjectID>
         <URN>urn:oma:lwm2m:oma:7</URN>
@@ -403,7 +402,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
-
     <Item>
         <ObjectID>12</ObjectID>
         <URN>urn:oma:lwm2m:oma:12</URN>
@@ -563,7 +561,6 @@ There are several methods to create instance to indicate the message direction b
         <TS>https://www.openmobilealliance.org/release/LwM2M_APPDATA/V1_0_2-20240312-A/OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_2-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-    
     <Item>
         <ObjectID>20</ObjectID>
         <URN>urn:oma:lwm2m:oma:20</URN>
@@ -777,8 +774,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf</TS>
         <TSLink>1</TSLink>
-    </Item>
-	
+    </Item>	
     <Item>
         <ObjectID>500</ObjectID>
         <URN>urn:oma:lwm2m:oma:500</URN>
@@ -792,8 +788,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <DDFLink>1</DDFLink>
         <TS></TS>
         <TSLink>0</TSLink>
-    </Item>
-	
+    </Item>	
     <Item>
         <ObjectID>501</ObjectID>
         <URN>urn:oma:lwm2m:oma:501</URN>
