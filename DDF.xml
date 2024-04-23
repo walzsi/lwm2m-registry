@@ -545,14 +545,9 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
     </Item>
     <Item>
         <ObjectID>19</ObjectID>
-        <URN>urn:oma:lwm2m:oma:19:1.0</URN>
+        <URN>urn:oma:lwm2m:oma:19</URN>
         <Name>BinaryAppDataContainer</Name>
-        <Description><![CDATA[This LwM2M Objects provides the application service data related to a LwM2M Server, eg. Water meter data. 
-There are several methods to create instance to indicate the message direction based on the negotiation between Application and LwM2M. The Client and Server should negotiate the instance(s) used to exchange the data. For example:
- - Using a single instance for both directions communication, from Client to Server and from Server to Client.
- - Using an instance for communication from Client to Server and another one for communication from Server to Client
- - Using several instances
-]]></Description>
+        <Description>This LwM2M Objects provides the application service data related to a LwM2M Server, eg. Water meter data.</Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
         <Ver>1.0</Ver>
