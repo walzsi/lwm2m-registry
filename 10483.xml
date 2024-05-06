@@ -103,7 +103,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The communication channel number. IEEE 802.15.4 Channel value.]]></Description>
 			</Item>
 			<Item ID="6">
-				<Name>IpV6 Mesh Local Prefix</Name>
+				<Name>IPv6 Mesh Local Prefix</Name>
 				<Operations>RW</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
