@@ -498,7 +498,7 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>15.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>https://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V2_0_1-20240312-A/OMA-SUP-XML_15-V2_0_1-20240212-A.xml</TS>
+        <TS>https://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V2_0_1-20240312-A/OMA-TS-LWM2M_DevCapMgmt-V2_0_1-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
     <Item>
