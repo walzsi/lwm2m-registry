@@ -4,7 +4,7 @@
 FILE INFORMATION
 
 OMA Permanent Document
-  File: OMA-SUP-XML_15-V2_0-20201208-A.xml
+  File: OMA-SUP-XML_15-V2_0_1-20240312-A.xml
   Path: http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt
 
 OMNA LwM2M Registry
@@ -16,7 +16,7 @@ NORMATIVE INFORMATION
 
   Information about this file can be found in the latest revision of
 
-    OMA-TS-LWM2M_DevCapMgmt-V1_0_4
+    OMA-TS-LWM2M_DevCapMgmt-V2_0_1
 
   This is available at http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt
 
@@ -25,7 +25,7 @@ NORMATIVE INFORMATION
 
 LEGAL DISCLAIMER
 
-  Copyright 2020 Open Mobile Alliance.
+  Copyright 2020-2024 Open Mobile Alliance.
 
   Redistribution and use in source and binary forms, with or without
   modification, are permitted provided that the following conditions

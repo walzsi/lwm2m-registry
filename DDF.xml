@@ -305,7 +305,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>7</ObjectID>
         <URN>urn:oma:lwm2m:oma:7</URN>
@@ -320,7 +319,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_1_1-20190617-A/OMA-TS-LightweightM2M_Core-V1_1_1-20190617-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>8</ObjectID>
         <URN>urn:oma:lwm2m:oma:8</URN>
@@ -332,7 +330,7 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>8.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/V1_0_3-20210119-A/OMA-TS-LWM2M_LockWipe-V1_0_2-20210119-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/V1_0_4-20240312-A/OMA-TS-LWM2M_LockWipe-V1_0_4-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
     <Item>
@@ -346,10 +344,9 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>9.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_2-20210119-A/OMA-TS-LWM2M_SwMgmt-V1_0_2-20210119-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_3-20240312-A/OMA-TS-LWM2M_SwMgmt-V1_0_3-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>10</ObjectID>
         <URN>urn:oma:lwm2m:oma:10</URN>
@@ -405,7 +402,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
-
     <Item>
         <ObjectID>12</ObjectID>
         <URN>urn:oma:lwm2m:oma:12</URN>
@@ -463,7 +459,6 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
-
     <Item>
         <ObjectID>14</ObjectID>
         <URN>urn:oma:lwm2m:oma:14</URN>
@@ -475,10 +470,9 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>14.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-	<TS>http://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_2-20210119-A/OMA-TS-LWM2M_SwMgmt-V1_0_2-20210119-A.pdf</TS>
+	<TS>https://www.openmobilealliance.org/release/LWM2M_SWMGMT/V1_0_3-20240312-A/OMA-TS-LWM2M_SwMgmt-V1_0_3-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>15</ObjectID>
         <URN>urn:oma:lwm2m:oma:15</URN>
@@ -490,10 +484,9 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>version_history/15-1_0.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_3-20200616-A/OMA-TS-LWM2M_DevCapMgmt-V1_0_3-20200616-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_3-20200616-A/OMA-TS-LWM2M_DevCapMgmt-V1_0_3-20200616-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>15</ObjectID>
         <URN>urn:oma:lwm2m:oma:15:2.0</URN>
@@ -505,10 +498,9 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <DDF>15.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V1_0_4-20201208-A/OMA-TS-LWM2M_DevCapMgmt-V1_0_4-20201208-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/V2_0_1-20240312-A/OMA-TS-LWM2M_DevCapMgmt-V2_0_1-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-
     <Item>
         <ObjectID>16</ObjectID>
         <URN>urn:oma:lwm2m:oma:16</URN>
@@ -555,18 +547,19 @@ A LwM2M Server MUST support block-wise transfer. Other protocols, such as HTTP/H
         <ObjectID>19</ObjectID>
         <URN>urn:oma:lwm2m:oma:19</URN>
         <Name>BinaryAppDataContainer</Name>
-        <Description>This LwM2M Objects provides the application service data related to a LwM2M Server, eg. Water meter data. 
+        <Description><![CDATA[This LwM2M Objects provides the application service data related to a LwM2M Server, eg. Water meter data. 
 There are several methods to create instance to indicate the message direction based on the negotiation between Application and LwM2M. The Client and Server should negotiate the instance(s) used to exchange the data. For example:
  - Using a single instance for both directions communication, from Client to Server and from Server to Client.
  - Using an instance for communication from Client to Server and another one for communication from Server to Client
- - Using several instances</Description>
+ - Using several instances
+]]></Description>
         <Owner>OMA</Owner>
         <Source>0</Source>
         <Ver>1.0</Ver>
         <DDF>19.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LwM2M_APPDATA/V1_0_1-20190221-A/OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_1-20190221-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LwM2M_APPDATA/V1_0_2-20240312-A/OMA-TS-LWM2M_BinaryAppDataContainer-V1_0_2-20240312-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
     <Item>
@@ -729,7 +722,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf</TS>
         <TSLink>1</TSLink>
     </Item>
-        <Item>
+    <Item>
         <ObjectID>25</ObjectID>
         <URN>urn:oma:lwm2m:oma:25:2.0</URN>
         <Name>LwM2M Gateway</Name>
@@ -740,7 +733,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <DDF>25.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
-        <TS>http://www.openmobilealliance.org/release/LwM2M_Gateway/V1_1-20210518-A/OMA-TS-LWM2M_Gateway-V1_1-20210518-A.pdf</TS>
+        <TS>https://www.openmobilealliance.org/release/LwM2M_Gateway/V2_0_1-20240312-A/OMA-SUP-XML_25-V2_0_1-20240312-A.xml</TS>
         <TSLink>1</TSLink>
     </Item>
     <Item>
@@ -782,8 +775,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <DDFLink>1</DDFLink>
         <TS>http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf</TS>
         <TSLink>1</TSLink>
-    </Item>
-	
+    </Item>	
     <Item>
         <ObjectID>500</ObjectID>
         <URN>urn:oma:lwm2m:oma:500</URN>
@@ -797,8 +789,7 @@ Instances of this Object are linked from Instances of Object 0 using the OSCORE 
         <DDFLink>1</DDFLink>
         <TS></TS>
         <TSLink>0</TSLink>
-    </Item>
-	
+    </Item>	
     <Item>
         <ObjectID>501</ObjectID>
         <URN>urn:oma:lwm2m:oma:501</URN>
