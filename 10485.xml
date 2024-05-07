@@ -46,7 +46,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>0...255</RangeEnumeration>
+				<RangeEnumeration>0..255</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Provides the type of neighbor as Enumerated type:
 				0: Child
@@ -64,7 +64,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The Routing Locator (RLOC16) identifies a Thread interface, based on its location in the network topology.]]></Description>
 			</Item>
 			<Item ID="2">
-				<Name>Age </Name>
+				<Name>Age</Name>
 				<Operations>R</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
@@ -124,7 +124,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[Neighbor mode N represents "Full network data".]]></Description>
 			</Item>
 			<Item ID="8">
-				<Name>Extended MAC Address </Name>
+				<Name>Extended MAC Address</Name>
 				<Operations>R</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
@@ -183,7 +183,7 @@ link is non-existent or unusable.</RangeEnumeration>
 				<Type>Integer</Type>
 				<RangeEnumeration></RangeEnumeration>
 				<Units>count</Units>
-				<Description><![CDATA[Queued Message count. A non-zero QmsgCnt indicates that there are messages waiting to be delivered, and it can be useful for assessing the network's communication efficiency and load.]]></Description>
+				<Description><![CDATA[Queued Message count. A non-zero Queued Message Count indicates that there are messages waiting to be delivered, and it can be useful for assessing the network's communication efficiency and load.]]></Description>
 			</Item>					
 		</Resources>
 		<Description2 />
