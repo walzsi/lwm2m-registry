@@ -87,13 +87,11 @@ POSSIBILITY OF SUCH DAMAGE.
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>0..255</RangeEnumeration>
+				<RangeEnumeration>0..1</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Provides the commisioner state as Enumerated type:
 				0: Disabled
-				1: Active
-				2..254: Reserved
-				255: Undefined]]></Description>
+				1: Active]]></Description>
 			</Item><Item ID="5">
 				<Name>Pending joiners IDs</Name>
 				<Operations>R</Operations>

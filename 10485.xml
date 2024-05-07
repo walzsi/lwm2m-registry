@@ -46,13 +46,11 @@ POSSIBILITY OF SUCH DAMAGE.
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>0..255</RangeEnumeration>
+				<RangeEnumeration>0..1</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Provides the type of neighbor as Enumerated type:
 				0: Child
-				1: Router
-				2..254: Reserved
-				255: Undefined]]></Description>
+				1: Router]]></Description>
 			</Item>
 			<Item ID="1">
 				<Name>RLOC16 Address</Name>
