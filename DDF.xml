@@ -6144,7 +6144,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <ObjectID>10484</ObjectID>
         <URN>urn:oma:lwm2m:x:10484</URN>
         <Name>Thread Commissioning (joiner add)</Name>
-        <Description>This LwM2M Object enables commissioning (commissioner joiner add) of Thread devices on the Network. The target device must be have the "commissioner" and "joiner router" roles. Ex an ot-br posix "Border Router"</Description>
+        <Description>This LwM2M Object enables commissioning (commissioner joiner add) of Thread devices on the Network. The target device must be have the "commissioner" and "joiner router" roles. Ex: "Border Router"</Description>
         <Owner>HydroQuebec</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>

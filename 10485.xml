@@ -51,6 +51,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[Provides the type of neighbor as Enumerated type:
 				0: Child
 				1: Router
+				2..254: Reserved
 				255: Undefined]]></Description>
 			</Item>
 			<Item ID="1">
@@ -139,10 +140,10 @@ POSSIBILITY OF SUCH DAMAGE.
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>Link Quality is an integer in [0, 3]. A higher link quality indicates a more usable link, with 0 indicating that the
-link is non-existent or unusable.</RangeEnumeration>
+				<RangeEnumeration>0..3</RangeEnumeration>
 				<Units></Units>
-				<Description><![CDATA[Neighbor Link quality In.]]></Description>
+				<Description><![CDATA[Neighbor Link quality In. Link Quality is an integer in [0, 3]. A higher link quality indicates a more usable link, with 0 indicating that the
+link is non-existent or unusable.]]></Description>
 			</Item>
 			<Item ID="10">
 				<Name>Link Quality Out</Name>
@@ -150,10 +151,10 @@ link is non-existent or unusable.</RangeEnumeration>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>Link Quality is an integer in [0, 3]. A higher link quality indicates a more usable link, with 0 indicating that the
-link is non-existent or unusable.</RangeEnumeration>
+				<RangeEnumeration>0..3</RangeEnumeration>
 				<Units></Units>
-				<Description><![CDATA[Neighbor Link quality Out.]]></Description>
+				<Description><![CDATA[Neighbor Link quality Out. Link Quality is an integer in [0, 3]. A higher link quality indicates a more usable link, with 0 indicating that the
+link is non-existent or unusable.]]></Description>
 			</Item>		
 				<Item ID="11">
 				<Name>Frame Error</Name>

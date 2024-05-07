@@ -113,14 +113,14 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The IPv6 mesh local prefix.]]></Description>
 			</Item>
 			<Item ID="7">
-				<Name>Max Childrens</Name>
+				<Name>Max Children</Name>
 				<Operations>RW</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
 				<RangeEnumeration></RangeEnumeration>
-				<Units>count</Units>
-				<Description><![CDATA[The configured maximum number of childrens.]]></Description>
+				<Units></Units>
+				<Description><![CDATA[The configured maximum number of children.]]></Description>
 			</Item>
 			<Item ID="8">
 				<Name>RLOC16 Address</Name>

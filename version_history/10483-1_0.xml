@@ -60,7 +60,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Type>String</Type>
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
-				<Description><![CDATA[Thread network Personnal Area Network Identification (PAN Id).]]></Description>
+				<Description><![CDATA[Thread network Personal Area Network Identification (PAN ID).]]></Description>
 			</Item>
 			<Item ID="2">
 				<Name>Extended PAN ID </Name>
@@ -70,7 +70,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Type>String</Type>
 				<RangeEnumeration></RangeEnumeration>
 				<Units></Units>
-				<Description><![CDATA[Thread network Extended Personal Area Network Identification (Ext PAN Id). ]]></Description>
+				<Description><![CDATA[Thread network Extended Personal Area Network Identification (Ext PAN ID). ]]></Description>
 			</Item>
 			<Item ID="3">
 				<Name>Passphrase</Name>
@@ -103,7 +103,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The communication channel number. IEEE 802.15.4 Channel value.]]></Description>
 			</Item>
 			<Item ID="6">
-				<Name>IpV6 Mesh Local Prefix</Name>
+				<Name>IPv6 Mesh Local Prefix</Name>
 				<Operations>RW</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
@@ -113,14 +113,14 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The IPv6 mesh local prefix.]]></Description>
 			</Item>
 			<Item ID="7">
-				<Name>Max Childrens</Name>
+				<Name>Max Children</Name>
 				<Operations>RW</Operations>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
 				<RangeEnumeration></RangeEnumeration>
-				<Units>count</Units>
-				<Description><![CDATA[The configured maximum number of childrens.]]></Description>
+				<Units></Units>
+				<Description><![CDATA[The configured maximum number of children.]]></Description>
 			</Item>
 			<Item ID="8">
 				<Name>RLOC16 Address</Name>
@@ -153,7 +153,7 @@ POSSIBILITY OF SUCH DAMAGE.
 				<Description><![CDATA[The extended media access control (MAC) address of the device.]]></Description>
 			</Item>
 			<Item ID="11">
-				<Name>IPV6 Addresses</Name>
+				<Name>IPv6 Addresses</Name>
 				<Operations>R</Operations>
 				<MultipleInstances>Multiple</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
