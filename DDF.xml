@@ -6198,7 +6198,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6212,7 +6212,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6226,7 +6226,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6240,7 +6240,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6254,7 +6254,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6268,7 +6268,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6282,7 +6282,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>0</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
