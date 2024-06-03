@@ -134,7 +134,7 @@ LEGAL DISCLAIMER
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>1...15</RangeEnumeration>
+				<RangeEnumeration>1..15</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Indicates the PDU Session ID over which LwM2M session is established for 5G SA (FDD/TDD) Cellular Network.]]></Description>
 			</Item>
@@ -144,7 +144,7 @@ LEGAL DISCLAIMER
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>1...3</RangeEnumeration>
+				<RangeEnumeration>1..3</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Indicates the Session and Service Continuity mode for 5G SA (FDD/TDD) Cellular Network.]]></Description>
 			</Item>
@@ -196,7 +196,7 @@ Remaining = Spare (Spec Ref.)]]></Description>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>1...63</RangeEnumeration>
+				<RangeEnumeration>1..63</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Indicates the QoS Flow identifier for 5G SA (FDD/TDD) Cellular Network. (Spec Ref.)]]></Description>
 			</Item>
@@ -206,7 +206,7 @@ Remaining = Spare (Spec Ref.)]]></Description>
 				<MultipleInstances>Single</MultipleInstances>
 				<Mandatory>Optional</Mandatory>
 				<Type>Integer</Type>
-				<RangeEnumeration>1...25</RangeEnumeration>
+				<RangeEnumeration>1..25</RangeEnumeration>
 				<Units></Units>
 				<Description><![CDATA[Indicates the Session Aggregate Maximum Bit Rate as per the 5G 3GPP Spec for 5G SA (FDD/TDD) Cellular Network.  (Spec Ref.)]]></Description>
 			</Item>
