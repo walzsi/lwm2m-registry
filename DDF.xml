@@ -6114,7 +6114,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>Vodafone</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>version_history/10481-1_0.xml</DDF>
+        <DDF>10481.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6128,9 +6128,9 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>Vodafone</Owner>
         <Source>2</Source>
         <Ver>2.0</Ver>
-        <DDF>10481.xml</DDF>
+        <DDF></DDF>
         <Vorto></Vorto>
-        <DDFLink>1</DDFLink>
+        <DDFLink>0</DDFLink>
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
