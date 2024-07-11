@@ -6124,7 +6124,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <ObjectID>10481</ObjectID>
         <URN>urn:oma:lwm2m:x:10481:2.0</URN>
         <Name>Network Speed Test</Name>
-        <Description>Reservation 10481-v2.0</Description>
+        <Description>This Object supports triggering a network speed test and records the results. Furthermore, it allows to configure the server address of the server used for the speed test.</Description>
         <Owner>Vodafone</Owner>
         <Source>2</Source>
         <Ver>2.0</Ver>
