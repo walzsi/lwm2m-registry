@@ -250,8 +250,8 @@ In this mode, only the current alarm state should be reported
                 <MultipleInstances>Single</MultipleInstances>
                 <Mandatory>Mandatory</Mandatory>
                 <Type>Integer</Type>
-                <RangeEnumeration></RangeEnumeration>
-                <Units></Units>
+                <RangeEnumeration>1..864000</RangeEnumeration>
+                <Units>s</Units>
                 <Description><![CDATA[The Active Fault Delivery Frequency overrides the Delivery Frequency in the associated Delivery Schedule Object when in an alarm state. This resource is a readable and writable resource representing the number of seconds between deliveries. It is recommended that the Delivery Frequency be set to a devisor of 24 hours (86400 seconds) to provide a consistent interval period. Examples of Delivery Frequency include:-
 30 = Every 30 seconds
 600 = Every 10 minutes
