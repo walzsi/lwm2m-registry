@@ -6207,12 +6207,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10487</ObjectID>
         <URN>urn:oma:lwm2m:x:10487</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10487</Description>
-        <Owner>TBD</Owner>
+        <Name>Water Level Readings</Name>
+        <Description>Periodic water level measurements</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10487.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6221,12 +6221,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10488</ObjectID>
         <URN>urn:oma:lwm2m:x:10488</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10488</Description>
-        <Owner>TBD</Owner>
+        <Name>Tilt Readings</Name>
+        <Description>Periodic tilt measurements</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10488.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6235,12 +6235,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10489</ObjectID>
         <URN>urn:oma:lwm2m:x:10489</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10489</Description>
-        <Owner>TBD</Owner>
+        <Name>Trend Readings</Name>
+        <Description>Periodic trend (rate of change) measurements</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10489.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6249,12 +6249,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10490</ObjectID>
         <URN>urn:oma:lwm2m:x:10490</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10490</Description>
-        <Owner>TBD</Owner>
+        <Name>Water Level Alarm</Name>
+        <Description>This alarm is raised when the water level in a tank, manhole, etc. exceeds the specified threshold</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10490.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6263,12 +6263,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10491</ObjectID>
         <URN>urn:oma:lwm2m:x:10491</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10491</Description>
-        <Owner>TBD</Owner>
+        <Name>Tilt Alarm</Name>
+        <Description>This alarm is raised when the tilt/inclination of the device exceeds the specified threshold</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10491.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6277,12 +6277,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10492</ObjectID>
         <URN>urn:oma:lwm2m:x:10492</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10492</Description>
-        <Owner>TBD</Owner>
+        <Name>Trend Alarm</Name>
+        <Description>This alarm is raised when the trend (rate of change) of a sensor input exceeds a specified threshold.</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10492.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
@@ -6291,12 +6291,12 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
         <ObjectID>10493</ObjectID>
         <URN>urn:oma:lwm2m:x:10493</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10493</Description>
-        <Owner>TBD</Owner>
+        <Name>Manhole</Name>
+        <Description>This object provides site specific configuration for devices operating in a sewer manhole.</Description>
+        <Owner>South East Water Corporation</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF></DDF>
+        <DDF>10493.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
