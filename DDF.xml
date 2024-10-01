@@ -6359,6 +6359,76 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <TSLink>0</TSLink>
     </Item>
     <Item>
+        <ObjectID>10498</ObjectID>
+        <URN>urn:oma:lwm2m:x:10498</URN>
+        <Name>TBD</Name>
+        <Description>Reservation 10498</Description>
+        <Owner>TBD</Owner>
+        <Source>2</Source>
+        <Ver>1.0</Ver>
+        <DDF>10498.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>0</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    <Item>
+        <ObjectID>10499</ObjectID>
+        <URN>urn:oma:lwm2m:x:10499</URN>
+        <Name>TBD</Name>
+        <Description>Reservation 10499</Description>
+        <Owner>TBD</Owner>
+        <Source>2</Source>
+        <Ver>1.0</Ver>
+        <DDF>10499.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>0</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    <Item>
+        <ObjectID>10500</ObjectID>
+        <URN>urn:oma:lwm2m:x:10500</URN>
+        <Name>TBD</Name>
+        <Description>Reservation 10500</Description>
+        <Owner>TBD</Owner>
+        <Source>2</Source>
+        <Ver>1.0</Ver>
+        <DDF>10500.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>0</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    <Item>
+        <ObjectID>10501</ObjectID>
+        <URN>urn:oma:lwm2m:x:10501</URN>
+        <Name>TBD</Name>
+        <Description>Reservation 10501</Description>
+        <Owner>TBD</Owner>
+        <Source>2</Source>
+        <Ver>1.0</Ver>
+        <DDF>10501.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>0</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    <Item>
+        <ObjectID>10502</ObjectID>
+        <URN>urn:oma:lwm2m:x:10502</URN>
+        <Name>TBD</Name>
+        <Description>Reservation 10502</Description>
+        <Owner>TBD</Owner>
+        <Source>2</Source>
+        <Ver>1.0</Ver>
+        <DDF>10502.xml</DDF>
+        <Vorto></Vorto>
+        <DDFLink>0</DDFLink>
+        <TS></TS>
+        <TSLink>0</TSLink>
+    </Item>
+    <Item>
         <ObjectID>18830</ObjectID>
         <URN>urn:oma:lwm2m:x:18830</URN>
         <Name>MQTT Broker</Name>
