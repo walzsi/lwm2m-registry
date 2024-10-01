@@ -6408,7 +6408,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>TBD</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>10501.xml</DDF>
+        <DDF></DDF>
         <Vorto></Vorto>
         <DDFLink>0</DDFLink>
         <TS></TS>
