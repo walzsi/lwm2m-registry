@@ -606,7 +606,6 @@ The Resources of that Object are based on the OMA LwM2M set of reusable Resource
         <DDFLink>1</DDFLink>
         <TS>https://www.openmobilealliance.org/release/LwM2M_EventLog/V2_1-20240123-A/OMA-TS-LWM2M_EventLog-V2_1-20240123-A.pdf</TS>
         <TSLink>1</TSLink>
-        <TSLink>1</TSLink>
     </Item>
     <Item>
         <ObjectID>21</ObjectID>
