@@ -34,7 +34,7 @@ POSSIBILITY OF SUCH DAMAGE.
 <LWM2M xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
     <Object ObjectType="MODefinition">
         <Name>Device Reboot Event</Name>
-        <Description1><![CDATA[This binary status should indicate that the meter MCU can no longer communicate with a daughter board]]></Description1>
+        <Description1><![CDATA[This event records the fact that the device has rebooted]]></Description1>
         <ObjectID>10283</ObjectID>
         <ObjectURN>urn:oma:lwm2m:x:10283</ObjectURN>
         <LWM2MVersion>1.0</LWM2MVersion>
