@@ -69,7 +69,7 @@ POSSIBILITY OF SUCH DAMAGE.
                 <Mandatory>Mandatory</Mandatory>
                 <Type>Float</Type>
                 <RangeEnumeration></RangeEnumeration>
-                <Units>m^2</Units>
+                <Units>m2</Units>
                 <Description><![CDATA[Cross-Sectional area of the tank in m^2]]></Description>
             </Item>
             <Item ID="3">
