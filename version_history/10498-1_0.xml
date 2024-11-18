@@ -70,7 +70,7 @@ POSSIBILITY OF SUCH DAMAGE.
                 <Mandatory>Mandatory</Mandatory>
                 <Type>Float</Type>
                 <RangeEnumeration></RangeEnumeration>
-                <Units>L</Units>
+                <Units>l</Units>
                 <Description><![CDATA[The water volume to discharge in litres for a volume discharge event]]></Description>
             </Item>
             <Item ID="3">
