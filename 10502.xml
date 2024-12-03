@@ -163,6 +163,16 @@ POSSIBILITY OF SUCH DAMAGE.
                 <Units></Units>
                 <Description><![CDATA[The number of static objects indentified in the tank]]></Description>
             </Item>
+            <Item ID="12">
+                <Name>Catchment Area</Name>
+                <Operations>RW</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Type>Float</Type>
+                <RangeEnumeration></RangeEnumeration>
+                <Units>m2</Units>
+                <Description><![CDATA[The area of the roof or other surfaces that collects rainwater to be stored in the rainwater tank]]></Description>
+            </Item>
         </Resources>
         <Description2></Description2>
     </Object>
