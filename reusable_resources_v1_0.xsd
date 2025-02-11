@@ -96,7 +96,7 @@ LEGAL DISCLAIMER
                                 <xs:enumeration value="Time"/>
                                 <xs:enumeration value="Objlnk"/>
                                 <xs:enumeration value="Unsigned Integer"/>
-                                <xs:enumeration value="Corelnk"/>
+                                <xs:enumeration value=/>
                                 <xs:enumeration value=""/>
                               </xs:restriction>
                             </xs:simpleType>
