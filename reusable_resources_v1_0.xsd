@@ -23,10 +23,11 @@ CHANGE HISTORY
 
 20171227 First version
 20180105 Editorial updates
+20250210 Add to Type element missing values: "Unsigned Integer", and "Corelnk". PR #812, https://github.com/OpenMobileAlliance/lwm2m-registry/pull/812 
 
 LEGAL DISCLAIMER
 
-  Copyright 2018 Open Mobile Alliance Ltd.  All rights reserved.
+  Copyright 2018, 2025 Open Mobile Alliance Ltd.  All rights reserved.
 
   Redistribution and use in source and binary forms, with or without
   modification, are permitted provided that the following conditions
@@ -54,7 +55,7 @@ LEGAL DISCLAIMER
   ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
   POSSIBILITY OF SUCH DAMAGE.
 
-  The above license is used as a license under copyright only.  Please
+  The above license is used as a license under copyright only. Please
   reference the OMA IPR Policy for patent licensing terms:
   http://www.openmobilealliance.org/ipr.html
 
@@ -94,6 +95,8 @@ LEGAL DISCLAIMER
                                 <xs:enumeration value="Opaque"/>
                                 <xs:enumeration value="Time"/>
                                 <xs:enumeration value="Objlnk"/>
+                                <xs:enumeration value="Unsigned Integer"/>
+                                <xs:enumeration value="Corelnk"/>
                                 <xs:enumeration value=""/>
                               </xs:restriction>
                             </xs:simpleType>
