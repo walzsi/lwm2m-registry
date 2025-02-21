@@ -6337,7 +6337,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
         <Owner>autosen</Owner>
         <Source>2</Source>
         <Ver>1.0</Ver>
-        <DDF>10495.xml</DDF>
+        <DDF>version_history/10495-1_0.xml</DDF>
         <Vorto></Vorto>
         <DDFLink>1</DDFLink>
         <TS></TS>
@@ -6345,15 +6345,15 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     </Item>
     <Item>
         <ObjectID>10495</ObjectID>
-        <URN>urn:oma:lwm2m:x:10495</URN>
-        <Name>TBD</Name>
-        <Description>Reservation 10495</Description>
-        <Owner>TBD</Owner>
+        <URN>urn:oma:lwm2m:x:10495:1.1</URN>
+        <Name>Periodic Sensor Upload</Name>
+        <Description>The autosen Periodic Sensor Upload object can be used to upload sampled sensor data at periodic intervals</Description>
+        <Owner>autosen</Owner>
         <Source>2</Source>
         <Ver>1.1</Ver>
-        <DDF></DDF>
+        <DDF>10495.xml</DDF>
         <Vorto></Vorto>
-        <DDFLink>0</DDFLink>
+        <DDFLink>1</DDFLink>
         <TS></TS>
         <TSLink>0</TSLink>
     </Item>
